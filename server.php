@@ -4,7 +4,7 @@ $dsn = 'pgsql:host=localhost;port=5432;dbname=oauth2';
 $username = 'postgres';
 $password = '321';
 
-// error reporting (this is a demo, after all!)
+// Error reporting (this is a demo, after all!)
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
